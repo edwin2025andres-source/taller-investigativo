@@ -67,16 +67,3 @@ git push -u origin feature/descripcion
 
 En GitHub, abre un Pull Request con base `develop` y compare `feature/descripcion`. Revisa el diff antes de integrar el cambio.
 
-## Evidencias para la entrega
-
-1. VS Code con el repositorio abierto y el primer commit visible en la terminal.
-2. `.vscode/launch.json` y el programa mostrando el valor de `APP_MODE`.
-3. `.gitignore` y `git status` sin `.env` entre los cambios propuestos.
-4. GitHub mostrando `borrame.txt` retirado de la versión actual y la terminal con el commit correspondiente.
-5. Pull Request de `feature/descripcion` hacia `develop` y su estado final.
-
-Adjunta las capturas y responde: ¿qué es una variable de entorno?, ¿qué hace `.gitignore`?, ¿qué hace `git rm --cached`? y ¿qué se revisa en un Pull Request?
-
-## Seguridad
-
-No subas secretos. Si publicas una credencial real, revócala o cámbiala de inmediato. Un commit posterior que retire el archivo no lo elimina del historial anterior.

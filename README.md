@@ -4,10 +4,7 @@ Repositorio de práctica para aprender a configurar una aplicación con variable
 
 > Completa tu nombre y grupo antes de entregar. Usa solamente valores ficticios: nunca guardes contraseñas, tokens ni claves en este repositorio.
 
-## Datos del estudiante
 
-- **Nombre:** _Escribe tu nombre_
-- **Grupo:** _Escribe tu grupo_
 
 ## Requisitos
 
